@@ -3,12 +3,6 @@
 An intelligent **AI Chatbot** built with **LangChain**, **Flask**, and an LLM.  
 This chatbot offers a **modern web UI**, **persistent chat history**, and a **clean design** — all with minimal code.
 
----
-
-## 🚀 Live Demo  
-Check it out here: [Live Demo](https://anmol1630.github.io/ChatBOT-using-Langchain-Flask/)
-
----
 
 ## 🛠️ Features
 
